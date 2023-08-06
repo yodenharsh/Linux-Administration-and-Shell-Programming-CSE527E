@@ -1,0 +1,1 @@
+ls -l | grep rwx | gawk '{print $1 " " $2 " " $9}'

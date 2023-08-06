@@ -1,0 +1,20 @@
+Script started on 2023-08-04 14:09:51+05:30 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="80" LINES="24"]
+[?2004h]0;yodenharsh@harsh-victus: /media/Windows/Users/harsh/Coding/Courses/Linux Administration and Shell Programming/class_tasks/Aug_3[01;32myodenharsh@harsh-victus[00m:[01;34m/media/Windows/Users/harsh/Coding/Courses/Linux Administration and Shell Programming/class_tasks/Aug_3[00m$ vi executable.txt
+[?2004l[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[24;1H"executable.txt" 3 lines, 14 bytes[1;1Hdate
+
+list -l
+[94m~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [1;1H[?25h
+
+[mlistst[?25l[24;1H[K[24;1H:[?25hd[?25l[3;1H[94m~                                                                               [2;1H[?25h[?2004l[>4;m[?25l[ml[?25h[?25ls[?25h[?25l [?25h[?25l-[?25h[?25ll[?25h[?2004h[>4;2m[?25l[24;1H[K[24;1H:[?25hwq[?25l[?2004l[>4;m"executable.txt" 2 lines, 11 bytes written[23;2t[23;1t
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t[?2004h]0;yodenharsh@harsh-victus: /media/Windows/Users/harsh/Coding/Courses/Linux Administration and Shell Programming/class_tasks/Aug_3[01;32myodenharsh@harsh-victus[00m:[01;34m/media/Windows/Users/harsh/Coding/Courses/Linux Administration and Shell Programming/class_tasks/Aug_3[00m$ cp executable.txt executabe[Kle.sh
+[?2004l[?2004h]0;yodenharsh@harsh-victus: /media/Windows/Users/harsh/Coding/Courses/Linux Administration and Shell Programming/class_tasks/Aug_3[01;32myodenharsh@harsh-victus[00m:[01;34m/media/Windows/Users/harsh/Coding/Courses/Linux Administration and Shell Programming/class_tasks/Aug_3[00m$ ../[K[K/s[Kexecutable.sh 
+[?2004lFriday 04 August 2023 02:10:28 PM IST
+total 1
+-rwxrwxrwx 1 yodenharsh yodenharsh 11 Aug  4 14:10 executable.sh
+-rwxrwxrwx 1 yodenharsh yodenharsh 11 Aug  4 14:10 executable.txt
+-rwxrwxrwx 1 yodenharsh yodenharsh  0 Aug  4 14:09 timingfile
+-rwxrwxrwx 1 yodenharsh yodenharsh  0 Aug  4 14:09 typescript
+[?2004h]0;yodenharsh@harsh-victus: /media/Windows/Users/harsh/Coding/Courses/Linux Administration and Shell Programming/class_tasks/Aug_3[01;32myodenharsh@harsh-victus[00m:[01;34m/media/Windows/Users/harsh/Coding/Courses/Linux Administration and Shell Programming/class_tasks/Aug_3[00m$ exit
+[?2004lexit
+
+Script done on 2023-08-04 14:10:30+05:30 [COMMAND_EXIT_CODE="0"]
