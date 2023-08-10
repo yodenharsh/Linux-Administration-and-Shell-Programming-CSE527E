@@ -1,0 +1,6 @@
+This file
+Has all the permissions
+Like:
+Read - r
+Write - w
+Execute - x
